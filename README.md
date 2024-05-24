@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Maru</h1>
-<p align="center">I'm an IT-apprentice from Switzerland.<br /> I am familiar with webdev, softwaredev aswell as game development.</p>
+<h3 align="center">I'm an IT-apprentice from Switzerland.<br /> I am familiar with webdev, softwaredev aswell as game development.</h3>
 <h2 align="center">Languages and Other Skills</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
